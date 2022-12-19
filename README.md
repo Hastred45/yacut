@@ -14,8 +14,8 @@
     ```SQL
     POST /api/id/
     {
-      "url": "string",
-      "custom_id": "string"
+      'url': 'string',
+      'custom_id': 'string'
     }
     ```
 
@@ -91,3 +91,4 @@
 
 ## Автор
 Сергей Осетров
+hastred45@yandex.ru
